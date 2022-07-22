@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Nafis Mahmud @dotnafis
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dotnafis)
+
+<h2>👋 Hi, I’m Nafis Mahmud @dotnafis</h2>
 - 👀 I’m interested in web-development, designing, hacking, cracking, photography, cycling, riding, coding and so on...
-- 🌱 I'm presently enrolled at Milestone College in 11th grade.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/dotnafis  / https://m.me/dotnafis
-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=dotnafis)
+<br>- 🌱 I'm presently enrolled at Milestone College in 11th grade.
+<br>- 💞️ I’m looking to collaborate on ...
+<br>
+<h2>Reach me</h2>
+<a href=''https://t.me/dotnafis''>Telegram</a>  or <a href=''https://m.me/dotnafis''>Massenger</a>
 
 
 
