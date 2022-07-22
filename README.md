@@ -3,7 +3,7 @@
 - 🌱 I'm presently enrolled at Milestone College in 11th grade.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/dotnafis  / https://m.me/dotnafis
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dotnafis)
+- ![visitors](https://visitor-badge.glitch.me/badge?page_id=dotnafis)
 
 
 
